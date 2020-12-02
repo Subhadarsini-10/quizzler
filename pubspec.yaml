@@ -1,0 +1,16 @@
+name: quizzler
+description: A new Flutter application.
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  rflutter_alert: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
